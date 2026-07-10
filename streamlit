@@ -1,1 +1,2 @@
-
+[client]
+showErrorDetails = true
